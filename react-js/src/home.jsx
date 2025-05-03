@@ -31,7 +31,7 @@ const Navbar = () => {
               cursor: "pointer",
             }}
           >
-            <i class="fa fa-search" aria-hidden="true"></i>
+            <i className="fa fa-search" aria-hidden="true"></i>
           </button>
         </li>
       </ul>
